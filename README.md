@@ -12,7 +12,7 @@ Football Fan Management API is a Spring Boot RESTful backend application designe
 - Integration and repository testing with Spring Data JPA
 
 ## Tech Stack
-- Java 17
+- Java 25
 - Spring Boot
 - Spring Security
 - Spring Data JPA
