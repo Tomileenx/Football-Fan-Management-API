@@ -55,9 +55,7 @@ public class ApplicationConfig {
 
                 appUserRepo.save(admin);
 
-                System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
                 System.out.println("Admin user created: admin@example.com, Admin@123");
-                System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
             }
         };
     }
