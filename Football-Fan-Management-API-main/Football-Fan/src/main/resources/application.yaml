@@ -1,5 +1,5 @@
 jwt:
-  secret: ${SECRET_KEY}
+  secret: ${SECRET_KEY
 spring:
   datasource:
     url: ${DB_URL}
