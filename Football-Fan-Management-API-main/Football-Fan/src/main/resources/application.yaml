@@ -1,5 +1,5 @@
 jwt:
-  secret: "MTE0NWMyNDI0NDM5ZWI1ZDdjMzU4NzZiMjhhOTY3Y2M4NmU2YTkwMTlmNWNiYWYyZjIwZjVkYTZmYjI4MjdjZQ=="
+  secret: ${SECRET_KEY}
 spring:
   datasource:
     url: ${DB_URL}
